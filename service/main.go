@@ -33,8 +33,8 @@ const (
       INDEX = "around"
       TYPE = "post"
       DISTANCE = "200km"
-      PROJECT_ID = "around-179500"
-      BT_INSTANCE = "around-post"
+      PROJECT_ID = "nodal-fountain-206502"
+      BT_INSTANCE = "post-images-206502"
       // Needs to update this URL if you deploy it to cloud.
       ES_URL = "http://34.211.21.63:9200"
 )
